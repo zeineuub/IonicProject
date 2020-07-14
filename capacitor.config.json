@@ -1,0 +1,15 @@
+{
+  "appId": "com.ionicapp",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+     "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath":"/home/zeineuub/Downloads/android-studio-linux/android-studio/bin/studio.sh"
+}
